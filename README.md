@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahmoud899
+- 👋 Hi, I’m Mahmoud Heshmat a Petroleum Engineer
 - 👀 I’m interested in Data Analysis and Machinle Learning
 - 🌱 I’m currently learning Data Analysis, Machine Learning and Petroleum Engineering
 - 💞️ I’m looking to collaborate on a variety of Machine Learning projects
